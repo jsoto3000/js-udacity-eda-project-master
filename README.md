@@ -6,7 +6,9 @@
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file
 3. Open js_udacity_eda_red_wine_proj_201810.html in your browser.
-4. Alternatively you can open the RStudio raw file.
+4. Alternatively you can open the RStudio raw oe the provided .pdf file.
+5. In addition you may access the .pdf file directly here: [.pdf file](https://jsoto3000.github.io/js-lab-animal-trading-card-basic-master/ ".pdf file").
+
 
 # Project Overview
 
